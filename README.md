@@ -1,2 +1,2 @@
 # hello-world
-This is the first dummy sample of my git
+I am a tech entusiasts looking forth to invetion and partnership with  top companies
